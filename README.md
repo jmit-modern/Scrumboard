@@ -1,4 +1,4 @@
-# scrum-board
+# Scrumboard
 JavaScript Scrum App to manage tasks with ease.
 
 > Warning : It uses localstorage to store your tasks, make sure you don't clean up your Local Storage for this app atleast.
@@ -13,10 +13,6 @@ JavaScript Scrum App to manage tasks with ease.
 - Move your task card around to update the status of your task, say from Development to Testing and so on.
 - Update a column name by double clicking on Title text.
 
----
-
-#### Demo
-[View](https://i-break-codes.github.io/scrum-board/)
 
 ---
 
@@ -34,8 +30,3 @@ JavaScript Scrum App to manage tasks with ease.
 - [ ] Remember expanded/collapsed state of a task
 - [ ] Database / Websockets for collab board
 
----
-
-#### Support
-- Bugs and requests, submit them through the project's issues section
-- Questions? DM or Tweet me [@mr_ali3n](https://twitter.com/mr_ali3n)
